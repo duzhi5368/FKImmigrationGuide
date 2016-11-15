@@ -31,8 +31,4 @@ var travelledData = {
 					name:'阿联酋',
                     comment:'2015 去塞舌尔路过阿布扎比',
 				},
-
-				//'china.zhejiang':{
-				//	name:'浙江省',
-				//}
 			};
